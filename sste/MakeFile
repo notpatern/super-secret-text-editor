@@ -1,0 +1,2 @@
+sste: sste.c
+	$(CC) sste.c -o sste -Wall -Wextra -pedantic -std=c99
